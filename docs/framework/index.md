@@ -11,7 +11,7 @@ It comes with a set of tools for managing the resources and some helpful tools l
 **Important: Make sure you name the resource ssdev_framework and you ensure it before any other ssdev resources
 - Simply download the zip of this repo and extract it to your resources folder. Its recommeneded to keep all SSDev resources in a folder called "[ssdev]".
 - Open your server.cfg and add the following line to the end of the file:
-```lua title=server.cfg
+```cfg title=server.cfg
 ensure ssdev_framework
 ensure [ssdev] -- Or if you placed somewhere else, ensure that instead
 ```
