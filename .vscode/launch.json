@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "node-terminal",
+            "name": "Run Script: docusaurus",
+            "request": "launch",
+            "command": "npm run docusaurus start",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
