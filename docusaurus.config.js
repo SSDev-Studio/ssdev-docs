@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/nightOwl');
 const config = {
   title: 'SSDev Documentation',
   tagline: 'SSDev Resource Documentation',
-  url: 'https://http://docs.ssdev.studio',
+  url: 'https://docs.ssdev.studio',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
