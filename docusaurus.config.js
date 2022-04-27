@@ -91,7 +91,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} SSDev Studios, Built with Docusaurus.`,
       },
       prism: {
-        theme: darkCodeTheme,
+        theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
