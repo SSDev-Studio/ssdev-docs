@@ -12,6 +12,8 @@ title: Arcade Claw Machine!
 - [Tebex](https://store.ssdev.studio/package/5077486)
 - [Demo](https://youtu.be/K7Mc_s3OYoY)
 - [Example Config](https://cloud.k8s.alexr03.dev/giRa0/gaxebaYo97.png/raw.png) / [Example Config 2](https://cloud.k8s.alexr03.dev/giRa0/SUrIWOWo93.png/raw.png)
+- [Discord](https://discord.gg/fp5daz53UZ)
+- [Documentation](https://docs.ssdev.studio/docs/arcade/claw)
 
 ## Dependencies
 - **SSDev_Framework** (This allows the use of multiple frameworks. [Github](https://github.com/SSDev-Studio/ssdev_framework)/[Download](https://github.com/SSDev-Studio/ssdev_framework/archive/refs/heads/master.zip))
