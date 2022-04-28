@@ -27,3 +27,4 @@ Disabling update checking is not recommended. If an update is released that fixe
 ## What does it do?
 SSDev resources has the ability to use an export called `CheckForUpdates(resourceName)`. It will contact the Update Server and request for the latest updates for the resource.
 It then compares the latest version to the version currently installed. If there is a newer version it will notify you in the console on SSDev Framework Startup.
+Example: ![Example Update](https://cloud.k8s.alexr03.dev/giRa0/QIVequlE33.png/raw.png)
